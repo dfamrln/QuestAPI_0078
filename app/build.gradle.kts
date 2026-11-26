@@ -52,6 +52,7 @@ dependencies {
     implementation(libs.okhttp)
     implementation(libs.okhttp.logging)
     implementation(libs.retrofit.serialization)
+    implementation(libs.lifecycle.viewmodel.compose)
 
 
     testImplementation(libs.junit)
