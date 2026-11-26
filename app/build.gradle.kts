@@ -50,7 +50,8 @@ dependencies {
 
     implementation(libs.kotlinx.serialization.json)
     implementation(libs.okhttp)
-
+    implementation(libs.okhttp.logging)
+ 
 
     testImplementation(libs.junit)
     androidTestImplementation(platform(libs.androidx.compose.bom))
