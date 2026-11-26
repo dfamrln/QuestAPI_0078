@@ -5,6 +5,7 @@
 
 <img src="https://github.com/user-attachments/assets/b317d96b-91e6-4452-bb87-f35ada3e55c9" width="300" alt="Halaman Aplikasi">
 
+<hr>
 
 <h2>Menambahkan Data</h2>
 
@@ -17,6 +18,7 @@
 
 <img src="https://github.com/user-attachments/assets/a7702aca-9c1b-4ad0-bc85-0db8a74ffacc" width="300" alt="Halaman Utama">
 
+<hr>
 
 <h2>phpMyAdmin</h2>
 
