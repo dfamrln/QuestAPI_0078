@@ -49,6 +49,7 @@ dependencies {
     implementation(libs.androidx.lifecycle.runtime.ktx)
 
     implementation(libs.kotlinx.serialization.json)
+    implementation(libs.okhttp)
 
 
     testImplementation(libs.junit)
